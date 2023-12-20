@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="btn_try_again">Inténtelo de nuevo</string>
+    <string name="back_arrow_content_descr">Volver</string>
+    <string name="loading_image_content_descr">Cargando</string>
+    <string name="failed_to_load_msg">Error al cargar</string>
+    <string name="no_records_found_msg">No se encontró nada</string>
+    <string name="book_details"><b>Libro</b> $s</string>
+    <string name="search_placeholder">Buscar por: </string>
+    <string name="libro_autores"><b>Autor/es:</b> </string>
+    <string name="libro_precio"><b>Precio:</b> </string>
+    <string name="libro_pais"><b>País:</b> </string>
+    <string name="libro_paginas"><b>Nº Páginas:</b> </string>
+    <string name="libro_editorial"><b>Editorial:</b> </string>
+    <string name="libro_fecha_publicacion"><b>Fecha publicación:</b> </string>
+    <string name="libro_valoracion"><b>Valoración:</b> </string>
+    <string name="libro_descripcion"><b>Descripción:</b> </string>
+
+</resources>
